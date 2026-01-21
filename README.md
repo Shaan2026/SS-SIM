@@ -78,8 +78,8 @@ SS-SIM-CODE/
 │   ├── Single_Carrier_frequency_detection.m  # Carrier frequency detection
 │   ├── RL_deconvolution.m        # Richardson-Lucy deconvolution
 │   └── README.md                 # This file
-├── exp_beads_24periods_12phases/ # Example experimental data
-└── sim_beads_24periods_12phases/ # Example simulated data
+├── exp_beads_12phases/ # Example experimental data
+└── sim_beads_12phases/ # Example simulated data
 ```
 
 ## 📤 Output
